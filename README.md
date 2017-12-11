@@ -1,7 +1,7 @@
 # MANOVA.stan
-R code and STAN Model 
+R code and STAN Model to investigate three levels of variance (within-individual, between-individual and between-site) for Bornean gibbons
 
-R Code for Clink et al. A multivariate analysis of female Bornean gibbon calls reveals substantial inter-individual variation and site-level variation in trill rate 
+R Code for Clink et al. A multivariate approach to understanding sources of variance in Bornean gibbon female calls 
 
 Submitted to the journal Behavioral Ecology
 
